@@ -4,7 +4,7 @@ A simple calendar application that allows a user to save events for each hour of
  ![image](https://user-images.githubusercontent.com/107855022/187788741-6b5150b8-e2f2-4c54-b5bd-e8c5fdd8fb7d.png)
 
 ## URL https://habibjah1.github.io/workday-scheduler/
-# Table of Contants
+# Table of Contents
 * [User Story](#user-story)
 * [Grading Requirements](#grading-requirments)
 * [Technologies](#technologies)
